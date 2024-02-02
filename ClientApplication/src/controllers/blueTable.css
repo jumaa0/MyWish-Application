@@ -1,0 +1,19 @@
+.table-view .column-header .label{
+  -fx-text-fill: #f7bc50;
+}
+
+.table-column {
+    -fx-text-fill: #f7bc50;
+    -fx-font-weight: bold;
+    -fx-background-color: #35415A;
+    -fx-border-color: #35415A;
+    -fx-alignment: CENTER;
+}
+
+
+.table-view {
+    -fx-background-color: #35415A;
+    -fx-border-color: #f7bc50;
+    -fx-font-weight: bold;
+    -fx-border-width: 0 0 0 10px;
+}
