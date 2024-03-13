@@ -43,10 +43,8 @@ To run the application, follow these steps:
 https://github.com/jumaa0/MyWish-Application/blob/dba099a36f97d257468bc711e006fd2f031c63c7/DEMO/Video.mp4
 
 
-https://user-images.github.com/jumaa0/MyWish-Application/blob/dba099a36f97d257468bc711e006fd2f031c63c7/DEMO/Video.mp4
 
-
-[Link to Video Demonstration](DEMO./DEMO.Video.mp4)
+[Link to Video Demonstration](DEMO/Video.mp4)
 
 ## Usage
 - Register or sign in to your account.
