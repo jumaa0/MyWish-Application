@@ -39,10 +39,10 @@ To run the application, follow these steps:
 6. Build and run the application in Apache NetBeans.
 
 ## Video Demonstration
-https://user-images.githubusercontent.com/jumaa0/MyWish-Application/blob/6359a892e7efee8f09ee605603587fa713fc141d/DEMO./DEMO.Video.mp4
+https://github.com/jumaa0/MyWish-Application/blob/6359a892e7efee8f09ee605603587fa713fc141d/DEMO./DEMO.Video.mp4
 
 <video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/jumaa0/MyWish-Application/blob/6359a892e7efee8f09ee605603587fa713fc141d/DEMO./DEMO.Video.mp4" type="video/mp4">
+  <source src="https://github.com/jumaa0/MyWish-Application/blob/6359a892e7efee8f09ee605603587fa713fc141d/DEMO./DEMO.Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
