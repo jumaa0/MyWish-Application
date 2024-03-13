@@ -39,7 +39,8 @@ To run the application, follow these steps:
 6. Build and run the application in Apache NetBeans.
 
 ## Video Demonstration
-https://user-images.githubusercontent.com/46838441/228173990-2fff005d-f97f-4542-a2aa-151370fdbd70.mp4
+[Watch the video](https://github.com/jumaa0/MyWish-Application/raw/main/DEMO/Video.mp4)
+
 
 
 [Link to Video Demonstration](DEMO/Video.mp4)
