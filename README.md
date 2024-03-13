@@ -40,8 +40,10 @@ To run the application, follow these steps:
 
 ## Video Demonstration
 
-https://user-images.githubusercontent.com/jumaa0/MyWish-Application/6359a892e7efee8f09ee605603587fa713fc141d/DEMO./DEMO.Video.mp4
+https://github.com/jumaa0/MyWish-Application/blob/dba099a36f97d257468bc711e006fd2f031c63c7/DEMO/Video.mp4
 
+
+https://user-images.github.com/jumaa0/MyWish-Application/blob/dba099a36f97d257468bc711e006fd2f031c63c7/DEMO/Video.mp4
 
 
 [Link to Video Demonstration](DEMO./DEMO.Video.mp4)
