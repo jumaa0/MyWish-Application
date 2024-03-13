@@ -1,4 +1,4 @@
-# MyWish <font size="10">⭐️</font> : A Wishlist Java Application
+# MyWish <font size="16">⭐️</font> : A Wishlist Java Application
 
 ## Overview
 Make a Wish is a Java-based desktop application designed to streamline the creation and management of wish lists. It enables users to add friends, create personal wish lists, view friends' wish lists, and contribute towards purchasing items from friends' wish lists. The application includes a robust notification service to keep users informed of various activities within the platform.
@@ -39,11 +39,11 @@ To run the application, follow these steps:
 6. Build and run the application in Apache NetBeans.
 
 ## Video Demonstration
-## Video Demonstration
 <video width="320" height="240" controls>
-  <source src="https://github.com/jumaa0/MyWish-Application/blob/main/DEMO./DEMO.Video.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/jumaa0/MyWish-Application/main/DEMO.Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 [Link to Video Demonstration](DEMO./DEMO.Video.mp4)
 
